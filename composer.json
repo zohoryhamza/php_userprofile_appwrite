@@ -1,8 +1,5 @@
 {
-  "name": "templates/starter",
-  "type": "library",
-  "require": {
-    "php": ">=8.0.0",
-    "appwrite/appwrite": "^8.0"
-  }
+    "require": {
+        "appwrite/appwrite": "^12.0.0"
+    }
 }
